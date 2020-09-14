@@ -1,4 +1,4 @@
-
+//Sample example1
 class Vehicle{
   String BrandName;
   String ModelName;
